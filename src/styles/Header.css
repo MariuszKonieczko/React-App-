@@ -1,0 +1,13 @@
+header {
+  flex-basis: 30vh;
+  position: relative;
+  overflow: hidden;
+}
+header img {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  transform: translate(-30%, -30%);
+  min-width: 100%;
+  min-height: 100%;
+}
